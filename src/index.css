@@ -6,8 +6,9 @@
   color-scheme: dark;
 }
 
-/* body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-} */
+#root {
+  margin: 0 !important;
+  padding: 0 !important;
+  max-width: unset !important;
+  text-align: unset !important;
+}
